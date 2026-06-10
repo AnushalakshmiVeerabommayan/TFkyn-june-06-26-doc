@@ -1,7 +1,7 @@
 #go to a1.linux.tf
   ##comment all the line in the starting put /*  and at the end of the line */
   #####lets create the windows vm 
-  ##create a new file a2.windows_vm.tf inside that copy from line 10 till 32 then do the changes as 5 point
+  ##create a new file a2.windows_vm.tf inside that copy from line 11 till 33 then do the changes as 5 point
   1. change the resource label to windows_vm
   2. change the resource group refrence lable
   3. change the location refrence label
